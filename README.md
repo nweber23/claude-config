@@ -28,7 +28,8 @@ Full text lives in [`CLAUDE.md`](CLAUDE.md).
 │   ├── COMMIT.md          # Commit message format and rules
 │   ├── SECURITY.md        # Vulnerability, dependency, and high-risk-change handling
 │   └── COMMUNICATION.md   # Response verbosity and tone
-└── Examples/             # Reserved for example agent interactions (currently empty)
+└── Examples/
+    └── INTERACTIONS.md   # Before/after snippets showing each principle in practice
 ```
 
 ## Usage
