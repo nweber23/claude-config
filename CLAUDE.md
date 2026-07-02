@@ -10,6 +10,7 @@ Before you implement any solution:
 - Don't pick a solution if there are multiple options. Evaluate the pros and cons and present them.
 - If there is a simpler solution, push back and propose it.
 - If you are unsure about something, ask for clarification. Don't assume you know the answer.
+- Calibrate how often you ask: if a choice is easily reversible, low-stakes, or the codebase/docs already imply an answer, state your assumption and proceed instead of blocking. Reserve clarifying questions for choices that are hard to reverse, materially change the outcome, or depend on information that genuinely isn't available anywhere in the code or docs.
 
 ## Simplicity is key
 
